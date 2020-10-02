@@ -30,7 +30,7 @@ publishDir = "docs"
 [params.mission]
   enable = true
   title = "At LifeChurch, we imagine a better future."
-  description = "Imagine a world where because of the friends we have and are continually developing, we are able to be more empathetic, understanding, and overall better human beings. Imagine a church where we could do that in a safe community that understands that we are all on a journey together. Imagine a network of organizations, leaders, and visionaries with those values supporting and launching new churches, ministries, and even schools, multiplying our impact."
+  description = "Imagine a world where because of the friends we have and are continually developing, we are able to be more empathetic, understanding, and overall better human beings. Imagine a church where we could do that in a safe community that understands that we are all on a journey together. Imagine a network of organizations, leaders, and visionaries launching initiatives that multiply our impact."
   action = "That's the future **we are making** a reality."
 
   [params.mission.images]
