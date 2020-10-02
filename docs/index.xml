@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3CFuture | LifeChurch Auburn Hills</title>
-    <link>https://www.3cfuture.org/</link>
+    <link>https://3cfuture.org/</link>
     <description>Recent content on 3CFuture | LifeChurch Auburn Hills</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://www.3cfuture.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://3cfuture.org/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

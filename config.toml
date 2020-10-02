@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.3cfuture.org/"
+baseURL = "https://3cfuture.org/"
 languageCode = "en-US"
 title = "3CFuture | LifeChurch Auburn Hills"
 publishDir = "docs"
