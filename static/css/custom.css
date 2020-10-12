@@ -2,7 +2,7 @@ body, h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", Arial, sans-serif;
 }
 .hero-logo {width: 80%; margin: 0 10%; text-align: center; margin-bottom: 40px; padding-bottom: 40px; border-bottom: 1px solid #fff;}
-#fh5co-services {background: url(/images/future_bg.jpeg) rgba(0,0,0,0.8); background-size: cover; color: white; background-blend-mode: overlay;}
+#fh5co-services {background: url(/images/future_bg.jpeg) rgba(0,0,0,0.6); background-size: cover; color: white; background-blend-mode: overlay;}
 #fh5co-services h1 {color: white; text-align: center;}
 fh5co-2col-inner left {padding: 10px;}
 .fh5co-main-nav {background: rgb(36,47,79) !important;}
