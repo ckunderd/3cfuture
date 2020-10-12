@@ -5,3 +5,8 @@ body, h1, h2, h3, h4, h5, h6 {
 #fh5co-services {background: url(/images/future_bg.jpeg) rgba(0,0,0,0.8); background-size: cover; color: white; background-blend-mode: overlay;}
 #fh5co-services h1 {color: white; text-align: center;}
 fh5co-2col-inner left {padding: 10px;}
+.fh5co-main-nav {background: rgb(36,47,79) !important;}
+.fh5co-main-nav .fh5co-menu-1 a.active {
+    color: #FFF;
+    font-weight: bold;
+}
